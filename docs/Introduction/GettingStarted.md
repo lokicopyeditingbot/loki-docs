@@ -21,8 +21,6 @@ Loki can be purchased on [exchanges](https://coinmarketcap.com/currencies/loki/#
 You can also aquire Loki by [mining](../Mining/MiningOverview.md). Mining is the process of extracting Loki for securing and verifying transactions made on the blockchain.
 
 ## 4. Stake and Earn Loki
-Once you own Loki, you can consider staking it to the network to receive additional Loki by running a Service Node with peers or by yourself.
-
 Once you own Loki, you can stake it to the network to run a Loki Service Node, with peers or by yourself, and be rewarded with additional Loki for your contribution to expanding the Loki network.
 
 To operate a [Service Node](../ServiceNodes/SNOverview.md), an operator [time-locks a significant amount of Loki](../ServiceNodes/StakingRequirement.md) and provides a minimum level of bandwidth and storage to the network. In return for their services, Loki Service Node operators receive a portion of the [block reward](../Advanced/Cryptoeconomics.md) from each block.
