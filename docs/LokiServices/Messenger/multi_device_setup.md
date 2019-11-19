@@ -60,11 +60,11 @@ Click `Link device to an existing account` and paste your public key copied in [
 
 ### Step 3: Prepare primary device
 
-To prepare the primary device, we need to go back into the Settings menu and click the `Link Device` button.
+To prepare the primary device, we need to go back into the Settings menu and tap the `Link Device` button.
 
 <center>![Multi4](../../assets/multi4.png)</center>
 
-Once the button has been clicked, Loki Messenger on your primary device will show a new popup saying "Waiting for Device".
+Once the button has been tapped, Loki Messenger on your primary device will show a new popup saying "Waiting for Device".
 
 <center>![Multi5](../../assets/multi5.png)</center>
 
